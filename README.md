@@ -363,6 +363,8 @@ Services monitor:
 git clone https://github.com/Abdellah-saim-mamoune1/MicroServices.git
 cd MicroServices
 
+---
+
 ### 2. Run docker compose
 docker-compose up -d rabbitmq
 docker-compose up -d --build
