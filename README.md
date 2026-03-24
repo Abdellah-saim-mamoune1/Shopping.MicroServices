@@ -15,7 +15,7 @@
 
 ## Architecture Diagram
 
-![diagram](Diagram.png)
+![Diagram](diagram.png)
 
 
 ---
