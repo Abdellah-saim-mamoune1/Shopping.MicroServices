@@ -366,5 +366,8 @@ cd MicroServices
 ---
 
 ### 2. Run docker compose
+```bash
 docker-compose up -d rabbitmq
 docker-compose up -d --build
+```
+---
